@@ -1,0 +1,19 @@
+#marquee {
+  position: relative;
+}
+#top-thing {
+  position: relative;
+  height: 5em;
+  width: 500%;
+  background-color: blue;
+  border: 5px solid black;
+  top: 0px;
+  color: white;
+}
+#pic {
+  height: 58em;
+  width: 100%;
+}
+body {
+  background-color: red;
+}
